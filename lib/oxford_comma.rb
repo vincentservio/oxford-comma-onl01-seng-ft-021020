@@ -1,6 +1,6 @@
 require 'pry'
 
 def oxford_comma(array)
-  array.split(',')
+  array
 #binding.pry
 end
