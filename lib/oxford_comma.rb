@@ -8,10 +8,10 @@ def oxford_comma(array)
     elsif array.length >= 3 
     
     
-    return  #array[0] , #{array[1] array.join(" and ")
+#     return  #array[0] , #{array[1] array.join(" and ")
       
-  #array.join(" and ")
-# binding.pry
-end
-end
-end
+#   #array.join(" and ")
+# # binding.pry
+# end
+# end
+# end
